@@ -1,5 +1,5 @@
 # semi-smooth-Newton-method-on-LP
-Here we use the augmented Lagrangian method for solving the standard LP Problem. We then implement first order methods (grad / fgrad), semi-smooth Newton method and Douglas-Rachford splitting(DRS) method to solve the problem.
+Here we use the augmented Lagrangian method to solve the standard LP Problem. We implement first order methods (grad / fgrad), semi-smooth Newton method and Douglas-Rachford splitting(DRS) method to solve the problem.
 
 ## Experiments
 
